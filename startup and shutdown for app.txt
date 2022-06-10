@@ -1,0 +1,21 @@
+to run the application do this:
+
+
+create 3 terminals
+
+
+term 1:
+- cd into API
+- run the command "dotnet watch run"
+- use ctrl+c to stop
+
+
+
+term 2:
+- cd into client-app
+- run the command "npm start"
+- use "npm stop" to stop
+
+
+term 3:
+- use for whatever
